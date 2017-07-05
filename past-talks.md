@@ -1,5 +1,9 @@
 # Talks I've Given
 
+## PyData Austin _June 2017_
+- All about using Singer to move data into a CSV
+  - About here
+
 ## Talkabot ATX Meetup _Nov 2016_
 - [video](http://example.com), [slides](http://example.com)
 - All about chatbots as the new interaction
