@@ -1,11 +1,7 @@
-# Future talks I might give
+# Future talks
 
-Feedback welcome! Please open an issue or make a pull request.
+## Nordic API 2017 Platform Summit
+### [Stockholm Oct 9 - 11](http://nordicapis.com/events/the-2017-api-platform-summit/)
 
-## Why you should switch to Foo open-source tool
+I'm so happpy to share that I'll be speaking about open-source tools to create your own datalake at the Nordic API Platform Summit
 
-Most people think that Baz developement is best done with Bar tool, but Foo open-source tool has an active community and is improving rapidly. At as of release 2.0, we're seeing a fully-featured, robust, reliable tool for production apps. Come hear about best practices that will save your development team hours and help them all sprout wings, and three tips that will help you hit the ground running. (Ruby, version control, agile)
-
-## Less fleshed out ideas
-
-- list a few ideas you're considering!
