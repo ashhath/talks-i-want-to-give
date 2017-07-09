@@ -28,7 +28,11 @@
 - Machine learning APIs, IBM Watson, and Skynet 
   - Keynote with Elliot Turner of AlchemyAPI. This was a super fun talk. More than anything enjoyed learning about AlchemyAPI and getting to talk about Watson in a really fun point for the product.
   - [video](https://www.youtube.com/watch?v=7X9MgNNFCA0), [slides](https://speakerdeck.com/apistrat/ibm-watson-and-alchemyapi-by-ashley-hathaway-elliot-turner), [article](https://www.3scale.net/2015/11/apistrat-austin-day-one/)
- 
+
+## General Assembly Courses _Ongoing_
+- Product Management and Development 101
+  - A list of a few courses and panels I was on at General Assembly in Austin. 
+  -[slides](https://generalassemb.ly/instructors/ashley-hathaway/4924) 
 
 ## Puppet Conf _Sept 2015_ 
 - Session: Thriving in Bureaucratic Environments

@@ -5,3 +5,8 @@
 
 I'm so happpy to share that I'll be speaking about open-source tools to create your own datalake at the Nordic API Platform Summit
 
+# Talk Ideas
+ - How to measure open-source project success
+ - The role of developer evangelism in an org
+ - Remote culture pitfalls
+ - ?
