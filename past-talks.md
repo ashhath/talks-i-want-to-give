@@ -39,6 +39,11 @@
 - Session: User Research & Offering Management: A Love Story
   - Small internal session with primarily new designers that turned into more of a discussion. Loved this.
 
+## Orange Silicon Valley _July 2015_
+- Learning from Machine Intelligence White Paper
+  - Not a talk persay, but mentioned in a white paper about machine intelligence
+  - [article](https://www.slideshare.net/AshleyHathaway/machineintelligencehighresbyspread)
+
 ## Self Conference _May 2015_
 - Session: Everything is fine. Nothing is fine. Lessons learned from transitioning roles.
   - Talk I gave after moving from UX to product management.
